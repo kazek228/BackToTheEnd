@@ -1,0 +1,12 @@
+G:\My Drive\samples\String-splitter\Splitter\bin\Debug\net7.0\Splitter.deps.json
+G:\My Drive\samples\String-splitter\Splitter\bin\Debug\net7.0\Splitter.dll
+G:\My Drive\samples\String-splitter\Splitter\bin\Debug\net7.0\Splitter.pdb
+G:\My Drive\samples\String-splitter\Splitter\obj\Debug\net7.0\Splitter.csproj.AssemblyReference.cache
+G:\My Drive\samples\String-splitter\Splitter\obj\Debug\net7.0\Splitter.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\samples\String-splitter\Splitter\obj\Debug\net7.0\Splitter.AssemblyInfoInputs.cache
+G:\My Drive\samples\String-splitter\Splitter\obj\Debug\net7.0\Splitter.AssemblyInfo.cs
+G:\My Drive\samples\String-splitter\Splitter\obj\Debug\net7.0\Splitter.csproj.CoreCompileInputs.cache
+G:\My Drive\samples\String-splitter\Splitter\obj\Debug\net7.0\Splitter.dll
+G:\My Drive\samples\String-splitter\Splitter\obj\Debug\net7.0\refint\Splitter.dll
+G:\My Drive\samples\String-splitter\Splitter\obj\Debug\net7.0\Splitter.pdb
+G:\My Drive\samples\String-splitter\Splitter\obj\Debug\net7.0\ref\Splitter.dll
